@@ -1,0 +1,4 @@
+
+PROJECT LAYOUT 
+
+--- Phase #1 : Setup Memory for LLM (vector Database)
